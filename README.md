@@ -17,4 +17,7 @@ facial images labeled across 7 emotions: Angry, Disgust, Fear, Happy, Sad, Surpr
 #numPy
 #seaborn
 #matplotlib
+#streamlit
+#tensorflow
+#keras
 
